@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x29e9ce32aa163a74478fbb681ddce20535e54fb9",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x29e9ce32aa163a74478fbb681ddce20535e54fb9",
+  "CONTRACT_ADDRESS": "0xF29b24B3dcfA8Cb25fD2E5B481Da55058AA3636f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xF29b24B3dcfA8Cb25fD2E5B481Da55058AA3636f",
   "NETWORK": {
     "NAME": "rinkeby",
     "SYMBOL": "Rinkeby Ether",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bts-nfts-v3",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bts-nfts-v4",
   "SHOW_BACKGROUND": true
 }
